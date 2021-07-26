@@ -1,0 +1,73 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h3 {
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+input {
+  padding: 1.5rem;
+  width: 80%;
+}
+
+body {
+  background-color: #ef4444;
+}
+
+input {
+  border-radius: 0.5rem;
+  outline: none;
+}
+
+.footer {
+  border-top-right-radius: 1rem;
+  padding: 2rem 1rem;
+  text-align: center;
+  color: black;
+}
+
+.footer-header {
+  padding-top: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-bottom: 1rem;
+  color: white;
+}
+
+.footer-symbol {
+  font-size: 1.5rem;
+}
+
+.list-non-bullet {
+  list-style: none;
+}
+
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+
+.link {
+  text-decoration: none;
+  padding: 0rem 1rem;
+  color: white;
+}
+
+.footer ul {
+  padding-inline-start: 0px;
+}
+
+hr {
+  margin: 2rem 0rem;
+}
