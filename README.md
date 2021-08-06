@@ -1,4 +1,4 @@
-# Interpreting Sport Emojis
+# Interpreting Sports Emojis
 There's a tonne of sports currently being played across the globe. Here's a React app that would help you identify and use some of the most popular sport emojis.
 
 ### How does the app work?
