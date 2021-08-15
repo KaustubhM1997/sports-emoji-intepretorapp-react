@@ -8,7 +8,11 @@ var sportsDictionary = {
   "🏑": "hockey",
   "🏀": "basketball",
   "🏉": "rugby",
-  "🏸": "badminton"
+  "🏸": "badminton",
+  "🏐": "volleyball",
+  "🥊": "boxing",
+  "🏌️‍♂️": "golf",
+  "🏊‍♂️": "swimming"
 };
 
 var sportsWeKnow = Object.keys(sportsDictionary);
